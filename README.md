@@ -15,5 +15,5 @@ In Progress:
 
 Done:
 -Use Spring Initialzr to create the initial project.
--Setup profect structur.
+-Setup project structure.
 -Define restaurant entity.
